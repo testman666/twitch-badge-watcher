@@ -1,0 +1,31 @@
+name: Twitch badge watch
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python watcher.py
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NOTIFY_ON_FIRST_RUN: "true"
+      - name: Save snapshot
+        run: |
+          git config user.name "badge-watcher"
+          git config user.email "badge-watcher@users.noreply.github.com"
+          git add badges_state.json
+          git diff --cached --quiet || (git commit -m "Update badge snapshot" && git push)
