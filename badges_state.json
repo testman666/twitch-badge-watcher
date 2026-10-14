@@ -3199,6 +3199,14 @@
     "title": "Streamer Awards 2024",
     "version": "1"
   },
+  "global/streamer-awards-2026-vote/1": {
+    "description": "This badge was earned by watching and voting on the 2026 Streamer Awards!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/941f3939-ae1c-4b47-a5fd-9adc53d3a4f4/3",
+    "scope": "global",
+    "set_id": "streamer-awards-2026-vote",
+    "title": "Streamer Awards 2026 Vote",
+    "version": "1"
+  },
   "global/streamer-awards-tux/1": {
     "description": "I earned this badge by watching the 2025 Streamer Awards!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/d52bd174-3509-460b-80ac-4a8d5840194b/3",
