@@ -1495,6 +1495,14 @@
     "title": "Fischer",
     "version": "1"
   },
+  "global/flameborn-sigil/1": {
+    "description": "This badge was earned by watching a streamer in the Enshrouded category during the v1.0 game launch",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/66ccfcbb-8b82-4746-8b61-2c38f69731c7/3",
+    "scope": "global",
+    "set_id": "flameborn-sigil",
+    "title": "Flameborn Sigil",
+    "version": "1"
+  },
   "global/football-fest-2026/1": {
     "description": "This badge was earned by watching 15 minutes of any of the participating Football Fest channels during Football Fest 2026!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/2b195857-8531-4487-a998-62fb9dbbe0e5/3",
