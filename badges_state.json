@@ -743,6 +743,14 @@
     "title": "Bungie Foundation Supporter",
     "version": "1"
   },
+  "global/castlevania-belmonts-curse/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Castlevania: Belmont's Curse category during the game launch!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/e073c4ac-2d87-4f4b-8239-a2081f4a06e1/3",
+    "scope": "global",
+    "set_id": "castlevania-belmonts-curse",
+    "title": "Castlevania Belmont's Curse",
+    "version": "1"
+  },
   "global/cdawg-cyclethon-5-badge/1": {
     "description": "Earned by watching CDawg's 5th Charity Cyclethon 2026!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/bc969f36-b221-487f-ab5b-8ecb3a60ded2/3",
