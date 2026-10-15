@@ -263,6 +263,22 @@
     "title": "Battlerite",
     "version": "1"
   },
+  "global/beagoldfish/1": {
+    "description": "Subbed to a streamer and got 1 month of Apple TV!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/fa5a8b25-f4e4-443b-98c6-623c65a89296/3",
+    "scope": "global",
+    "set_id": "beagoldfish",
+    "title": "BeAGoldfish",
+    "version": "1"
+  },
+  "global/believeinrichmond/1": {
+    "description": "Subbed to a streamer and got 1 month of Apple TV!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/07374c1e-6858-443f-8f57-cfbbe38364ca/3",
+    "scope": "global",
+    "set_id": "believeinrichmond",
+    "title": "BelieveInRichmond",
+    "version": "1"
+  },
   "global/big-walk/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Big Walk category.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/3de5a89b-533b-483a-8db2-036f9f13b9bd/3",
