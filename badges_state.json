@@ -1239,6 +1239,30 @@
     "title": "Duelyst",
     "version": "1"
   },
+  "global/edgerunners-d/1": {
+    "description": "This badge was earned by watching a streamer in the Cyberpunk 2077 category during the Cyberpunk: Edgerunners 2: Twitch Co-Streaming",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/99095484-4036-40e6-a1f6-c451e93abdeb/3",
+    "scope": "global",
+    "set_id": "edgerunners-d",
+    "title": "Edgerunners D",
+    "version": "1"
+  },
+  "global/edgerunners-talia/1": {
+    "description": "This badge was earned by watching a streamer in the Cyberpunk 2077 category during the Cyberpunk: Edgerunners 2: Twitch Co-Streaming",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/37886d76-944e-46ed-81ee-348d43a17922/3",
+    "scope": "global",
+    "set_id": "edgerunners-talia",
+    "title": "Edgerunners Talia",
+    "version": "1"
+  },
+  "global/edgerunners-weak/1": {
+    "description": "This badge was earned by watching a streamer in the Cyberpunk 2077 category during the Cyberpunk: Edgerunners 2: Twitch Co-Streaming",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/053062de-0527-4263-a595-740dc0ec2674/3",
+    "scope": "global",
+    "set_id": "edgerunners-weak",
+    "title": "Edgerunners Weak",
+    "version": "1"
+  },
   "global/egg/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Roblox category during the Egg Hunt 2026: The Grand Eggspress!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/74c777c3-715f-4c40-b991-6a36239e6ef0/3",
