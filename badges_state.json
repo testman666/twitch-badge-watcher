@@ -1727,6 +1727,14 @@
     "title": "GP Explorer 3",
     "version": "1"
   },
+  "global/gray-zone-warfare-gold/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Gray Zone Warfare category",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/29bd60c0-72a3-4151-8bb8-73153add8f85/3",
+    "scope": "global",
+    "set_id": "gray-zone-warfare-gold",
+    "title": "Gray Zone Warfare (Gold)",
+    "version": "1"
+  },
   "global/grey-zone-warfare/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Grey Zone Warfare category during the campaign period",
     "image": "https://static-cdn.jtvnw.net/badges/v1/7e1936c6-4e73-4aa5-8bd6-e5ae5ab8fcd5/3",
