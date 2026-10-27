@@ -975,6 +975,14 @@
     "title": "DayZ Yellow King",
     "version": "1"
   },
+  "global/dbd-halloween-2026/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer during Twitch Rivals of Terror and Stream-o-Ween 2026!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/0f60fb82-232f-4e16-a6a8-549866f99873/3",
+    "scope": "global",
+    "set_id": "dbd-halloween-2026",
+    "title": "DbD Halloween 2026",
+    "version": "1"
+  },
   "global/dead-by-daylight-icon/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a Dead by Daylight streamer during the Dead by Daylight x Jason Universe Launch!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/4f1be82e-d29e-4898-a4c7-29b3ce6ce807/3",
