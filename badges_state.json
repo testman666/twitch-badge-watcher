@@ -4279,6 +4279,14 @@
     "title": "WARLORD",
     "version": "1"
   },
+  "global/warrior-jar-alexander/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ELDEN RING category.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/a080167b-6264-404b-b9b1-e5a68348299f/3",
+    "scope": "global",
+    "set_id": "warrior-jar-alexander",
+    "title": "Warrior Jar Alexander",
+    "version": "1"
+  },
   "global/wartortle/1": {
     "description": "This badge was earned by evolving a badge from the Pok\u00e9mon First Partners Collection campaign.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/15a0db5d-bef1-49bb-8594-e3925e1ec248/3",
