@@ -111,6 +111,14 @@
     "title": "Admin",
     "version": "1"
   },
+  "global/alliance/1": {
+    "description": "FOR THE ALLIANCE! This badge was unlocked by subscribing or gifting a sub to a streamer during the launch of WoW: Forever.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/59d5bb2e-0d62-4116-a6bc-79cd5afe9246/3",
+    "scope": "global",
+    "set_id": "alliance",
+    "title": "Alliance",
+    "version": "1"
+  },
   "global/alone/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Little Nightmares III category during launch.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/10ba11a2-0171-42b6-9bba-8f2f14248172/3",
@@ -1805,6 +1813,14 @@
     "scope": "global",
     "set_id": "homo-tenta",
     "title": "Homo Tenta",
+    "version": "1"
+  },
+  "global/horde/1": {
+    "description": "FOR THE HORDE! This badge was unlocked by subscribing or gifting a sub to a streamer during the launch of WoW: Forever.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/8dfb6f30-1ec1-497a-91e4-028a704b4f57/3",
+    "scope": "global",
+    "set_id": "horde",
+    "title": "Horde",
     "version": "1"
   },
   "global/hornet/1": {
