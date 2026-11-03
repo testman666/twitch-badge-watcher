@@ -1975,6 +1975,14 @@
     "title": "Joker Mayhem",
     "version": "1"
   },
+  "global/joy/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Payday 3 category for 90 minutes",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/e8ff781d-a445-4ed3-9790-9514a2eb45f0/3",
+    "scope": "global",
+    "set_id": "joy",
+    "title": "Joy",
+    "version": "1"
+  },
   "global/jubilee/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Marvel Rivals category during Summer Drops Fest 2026!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/9722b4f6-c818-4f7c-8cc3-c22c70d00c53/3",
