@@ -1167,6 +1167,14 @@
     "title": "Don't Eat The Mold",
     "version": "1"
   },
+  "global/doom-the-dark-ages/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the DOOM: The Dark Ages category during the launch of Slaughter Mode!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/80e404b7-673b-4ca8-ab69-1779f9685eec/3",
+    "scope": "global",
+    "set_id": "doom-the-dark-ages",
+    "title": "DOOM: The Dark Ages",
+    "version": "1"
+  },
   "global/dragonscimmy/1": {
     "description": "This badge was earned by subscribing or gifting a sub to any Old School RuneScape broadcast in 2025 during the launch of Sailing, OSRS\u2019 first ever new skill!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/da4c6554-4472-4949-b33b-e79164dbba0b/3",
@@ -1621,6 +1629,14 @@
     "scope": "global",
     "set_id": "frozen-synapse_1",
     "title": "Frozen Synapse",
+    "version": "1"
+  },
+  "global/gallica/1": {
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Metaphor: ReFantazio category during the Switch 2 launch!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/d2adf631-2045-4246-9c34-201487e809ae/3",
+    "scope": "global",
+    "set_id": "gallica",
+    "title": "Gallica",
     "version": "1"
   },
   "global/game-developer/1": {
