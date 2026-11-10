@@ -1991,6 +1991,14 @@
     "title": "Joker Mayhem",
     "version": "1"
   },
+  "global/jordan-x-space-jam/1": {
+    "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/f7d0e088-2870-4b20-93e8-ab0fedfe50e4/3",
+    "scope": "global",
+    "set_id": "jordan-x-space-jam",
+    "title": "Jordan x Space Jam",
+    "version": "1"
+  },
   "global/joy/1": {
     "description": "This badge was earned by watching a streamer in the Payday 3 category for 90 minutes",
     "image": "https://static-cdn.jtvnw.net/badges/v1/e8ff781d-a445-4ed3-9790-9514a2eb45f0/3",
