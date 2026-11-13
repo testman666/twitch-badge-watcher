@@ -575,6 +575,14 @@
     "title": "Blastoise",
     "version": "1"
   },
+  "global/bleed-miami/1": {
+    "description": "This badge was earned by subbing to a GTAVI streamer during launch.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/c7b8fc7d-7ebd-46e1-8f57-cc58ce51a9d1/3",
+    "scope": "global",
+    "set_id": "bleed-miami",
+    "title": "Bleed Miami",
+    "version": "1"
+  },
   "global/bloody-finger-elden-ring/1": {
     "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ELDEN RING category.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/12266c73-c6bc-433a-ab66-dc021bb8159f/3",
@@ -717,6 +725,14 @@
     "scope": "global",
     "set_id": "broken-age_1",
     "title": "Broken Age",
+    "version": "1"
+  },
+  "global/bronze-chain/1": {
+    "description": "This badge was earned for watching 2 days of GTAVI during launch week.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/2e7cf17d-12ba-41cd-8f9d-4d96c5f69d45/3",
+    "scope": "global",
+    "set_id": "bronze-chain",
+    "title": "Bronze Chain",
     "version": "1"
   },
   "global/bubsy-4d/1": {
@@ -1125,6 +1141,14 @@
     "scope": "global",
     "set_id": "diablo",
     "title": "Diablo",
+    "version": "1"
+  },
+  "global/diamond-chain/1": {
+    "description": "This badge was earned for watching 5 days of GTAVI during launch week.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/7498db8a-8085-4262-ac9c-b2d13591b75f/3",
+    "scope": "global",
+    "set_id": "diamond-chain",
+    "title": "Diamond Chain",
     "version": "1"
   },
   "global/diana/1": {
@@ -1727,6 +1751,14 @@
     "title": "Global Moderator",
     "version": "1"
   },
+  "global/gold-chain/1": {
+    "description": "This badge was earned for watching 4 days of GTAVI during launch week.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/b7974da7-9af4-4ff6-8029-a9ca95b8b037/3",
+    "scope": "global",
+    "set_id": "gold-chain",
+    "title": "Gold Chain",
+    "version": "1"
+  },
   "global/gold-pixel-heart---together-for-good-24/1": {
     "description": "This badge was earned by donating $50 or more as part of Twitch Together for Good 2024!",
     "image": "https://static-cdn.jtvnw.net/badges/v1/52c90eac-b7ec-4e24-b500-8fceecfe91e8/3",
@@ -1749,6 +1781,14 @@
     "scope": "global",
     "set_id": "gold-stamp",
     "title": "Gold Stamp",
+    "version": "1"
+  },
+  "global/golden-iguana/1": {
+    "description": "This badge was earned by securing all the Emotes and Badges from the GTAVI launch. ",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/62c3816a-87d6-4ca0-bce0-fca6bcfa719f/3",
+    "scope": "global",
+    "set_id": "golden-iguana",
+    "title": "Golden Iguana",
     "version": "1"
   },
   "global/gone-bananas/1": {
@@ -2229,6 +2269,14 @@
     "scope": "global",
     "set_id": "meltan",
     "title": "Meltan",
+    "version": "1"
+  },
+  "global/miami-chain/1": {
+    "description": "This badge was earned for watching 6 days of GTAVI during launch week.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/015f3db0-1a3f-4e4a-970d-bea3adb3a331/3",
+    "scope": "global",
+    "set_id": "miami-chain",
+    "title": "Miami Chain",
     "version": "1"
   },
   "global/minecraft-15th-anniversary-celebration/1": {
@@ -2935,6 +2983,14 @@
     "title": "PUACL2026 FINALS Charizard",
     "version": "1"
   },
+  "global/purple-chain/1": {
+    "description": "This badge was earned for watching 1 day of GTAVI during launch week.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/07fdf1d1-f160-4415-821e-391a90852db6/3",
+    "scope": "global",
+    "set_id": "purple-chain",
+    "title": "Purple Chain",
+    "version": "1"
+  },
   "global/purple-noob/1": {
     "description": "Watch 1 hour of Roblox content on Twitch to earn this happy little badge. EZ W.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/a1fb3f16-14e8-4e2b-84f8-55e2b86878c8/3",
@@ -3183,6 +3239,14 @@
     "title": "Scampuss",
     "version": "1"
   },
+  "global/scored-big/1": {
+    "description": "This badge was earned by subbing to a GTAVI streamer during launch.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/2acfc5b8-7907-4b05-9b30-e211a93ffc63/3",
+    "scope": "global",
+    "set_id": "scored-big",
+    "title": "Scored Big",
+    "version": "1"
+  },
   "global/seegson-synthetics/1": {
     "description": "This badge was earned by watching the Alien Isolation category for 30 minutes",
     "image": "https://static-cdn.jtvnw.net/badges/v1/4709f62b-9cd9-4759-8953-c096527401c7/3",
@@ -3213,6 +3277,14 @@
     "scope": "global",
     "set_id": "share-the-love",
     "title": "Share the Love",
+    "version": "1"
+  },
+  "global/silver-chain/1": {
+    "description": "This badge was earned for watching 3 days of GTAVI during launch week.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/b8b5b601-d707-41c9-9fb6-9610280285e6/3",
+    "scope": "global",
+    "set_id": "silver-chain",
+    "title": "Silver Chain",
     "version": "1"
   },
   "global/skulls-10th-anniversary/1": {
@@ -4381,6 +4453,14 @@
     "scope": "global",
     "set_id": "waterslug",
     "title": "Waterslug",
+    "version": "1"
+  },
+  "global/welcome-2-miami/1": {
+    "description": "This badge was earned by subbing to a GTAVI streamer during launch.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/1c51d343-754e-4fee-a717-ec95cafb5482/3",
+    "scope": "global",
+    "set_id": "welcome-2-miami",
+    "title": "Welcome 2 Miami",
     "version": "1"
   },
   "global/went-outside/1": {
