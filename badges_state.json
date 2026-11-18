@@ -3215,6 +3215,14 @@
     "title": "RuneScape Sant Hat",
     "version": "1"
   },
+  "global/runescape-santa-hat/1": {
+    "description": "Watch 60 minutes of any channel streaming in the Old School RuneScape category during December 2026.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/2bee9264-647c-4bdc-921f-cb5e651b1c64/3",
+    "scope": "global",
+    "set_id": "runescape-santa-hat",
+    "title": "RuneScape Santa Hat",
+    "version": "1"
+  },
   "global/runescape-shrimp/1": {
     "description": "This badge was awarded to people who viewed any eligible channel co-streaming RuneFest 2026 in the Old School RuneScape category for one hour.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/88a06333-48d6-43cd-ac7e-0b449b4a7b8a/3",
