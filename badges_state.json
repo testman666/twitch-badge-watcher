@@ -3191,6 +3191,30 @@
     "title": "RuneScape Dragonwilds Eye",
     "version": "1"
   },
+  "global/runescape-gnome-plush/1": {
+    "description": "Subscribe or Gift 1 sub to any channel streaming in the Old School RuneScape category.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/8b5bf6d2-3f89-4c24-a6c2-c5eda04ce1e6/3",
+    "scope": "global",
+    "set_id": "runescape-gnome-plush",
+    "title": "RuneScape Gnome Plush",
+    "version": "1"
+  },
+  "global/runescape-quest-icon/1": {
+    "description": "Watch 60 minutes of any channel streaming in the RuneScape category",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/bf75cdff-7b3a-4ba6-a1d5-e00563b9877e/3",
+    "scope": "global",
+    "set_id": "runescape-quest-icon",
+    "title": "RuneScape Quest Icon",
+    "version": "1"
+  },
+  "global/runescape-sant-hat/1": {
+    "description": "Watch 60 minutes of any channel streaming in the Old School RuneScape category during December 2026.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/044b64a3-3319-4749-973e-abc5e0dfe323/3",
+    "scope": "global",
+    "set_id": "runescape-sant-hat",
+    "title": "RuneScape Sant Hat",
+    "version": "1"
+  },
   "global/runescape-shrimp/1": {
     "description": "This badge was awarded to people who viewed any eligible channel co-streaming RuneFest 2026 in the Old School RuneScape category for one hour.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/88a06333-48d6-43cd-ac7e-0b449b4a7b8a/3",
