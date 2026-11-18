@@ -3167,6 +3167,14 @@
     "title": "Rudy",
     "version": "1"
   },
+  "global/runescape-bones/1": {
+    "description": "Watch 60 minutes of any channel streaming in the Old School RuneScape category.",
+    "image": "https://static-cdn.jtvnw.net/badges/v1/95507c79-f87e-4a0d-9940-92af830b3b36/3",
+    "scope": "global",
+    "set_id": "runescape-bones",
+    "title": "RuneScape Bones",
+    "version": "1"
+  },
   "global/runescape-dragon-dagger/1": {
     "description": "This badge was awarded to people who viewed the OldSchoolRS livestream of the Deadman All Stars event Finale. It was added to promote Old School RuneScape's Deadman All Stars event.",
     "image": "https://static-cdn.jtvnw.net/badges/v1/0a4afdfc-7b58-4674-beb4-631766208b6d/3",
